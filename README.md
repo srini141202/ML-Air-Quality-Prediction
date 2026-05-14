@@ -2,9 +2,6 @@
 
 > A Comparative and Explainable Study of Machine Learning and Deep Learning Models for Time-Series Air Quality Prediction in Dublin Using Multi-Pollutant Data
 
-**Module:** H9MLAI: Machine Learning | **Programme:** MSc Artificial Intelligence (MSCAI1B)  
-**Institution:** National College of Ireland | **Student:** Srinivasan Dillikumar (24285951)
-
 ---
 
 ## Project Overview
@@ -140,12 +137,6 @@ tensorflow
 
 ---
 
-## Video Presentation
-
-[Watch the project video presentation (SharePoint)](https://studentncirl-my.sharepoint.com/:v:/g/personal/x24285951_student_ncirl_ie/IQDctBoH1ZhLT670AJ0W4tp2AWc7BhMYPyh8H8q2xNOpVcU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WhSxmQ)
-
----
-
 ## References
 
 Key references used in this project:
@@ -157,5 +148,3 @@ Key references used in this project:
 - Joharestani et al. (2019) — PM2.5 prediction using RF, XGBoost and DL, *Atmosphere*
 
 ---
-
-*National College of Ireland — MSc Artificial Intelligence — H9MLAI Machine Learning — 2026*
