@@ -35,7 +35,7 @@ The project goes beyond accuracy metrics by incorporating:
 
 ## Dataset
 
-- **Source:** Dublin City Council / [data.gov.ie](https://data.smartdublin.ie/dataset/air-quality-monitoring-data-dublin-city)
+- **Source:** Dublin City Council / [data.gov.ie](https://data.gov.ie/dataset/air-quality-monitoring-data-dublin-city)
 - **Period:** 2011–2012 (daily resolution)
 - **Pollutants:** PM2.5, PM10, NO2, NO, SO2, CO
 - **Monitoring stations:** 6 sites across Dublin
